@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.04570ec9.chunk.css",
+    "main.js": "/static/js/main.5324a4ce.chunk.js",
+    "main.js.map": "/static/js/main.5324a4ce.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.80cf3fa9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.80cf3fa9.js.map",
+    "static/css/2.99ac6e4b.chunk.css": "/static/css/2.99ac6e4b.chunk.css",
+    "static/js/2.cba0ad16.chunk.js": "/static/js/2.cba0ad16.chunk.js",
+    "static/js/2.cba0ad16.chunk.js.map": "/static/js/2.cba0ad16.chunk.js.map",
+    "static/js/3.24207002.chunk.js": "/static/js/3.24207002.chunk.js",
+    "static/js/3.24207002.chunk.js.map": "/static/js/3.24207002.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.99ac6e4b.chunk.css.map": "/static/css/2.99ac6e4b.chunk.css.map",
+    "static/css/main.04570ec9.chunk.css.map": "/static/css/main.04570ec9.chunk.css.map",
+    "static/js/2.cba0ad16.chunk.js.LICENSE.txt": "/static/js/2.cba0ad16.chunk.js.LICENSE.txt",
+    "static/media/flag_england1.d05ac026.jpg": "/static/media/flag_england1.d05ac026.jpg",
+    "static/media/flag_ispanija_new.e44d2825.jpg": "/static/media/flag_ispanija_new.e44d2825.jpg",
+    "static/media/flag_rf_enl.1d0e560f.jpg": "/static/media/flag_rf_enl.1d0e560f.jpg",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80cf3fa9.js",
+    "static/css/2.99ac6e4b.chunk.css",
+    "static/js/2.cba0ad16.chunk.js",
+    "static/css/main.04570ec9.chunk.css",
+    "static/js/main.5324a4ce.chunk.js"
+  ]
+}
